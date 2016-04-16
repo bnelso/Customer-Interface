@@ -1,9 +1,9 @@
-import java.util.ArrayList;
+import java.util.List;
 
 
 public class ShoppingCart 
 {
-	private ArrayList<Item> itemList;
+	private List<Item> itemList;
 	private double totalFees;
 	
 	public ShoppingCart()
